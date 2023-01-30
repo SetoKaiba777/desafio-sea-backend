@@ -42,7 +42,7 @@ Após a conclusão dessa etapa, basta subir a aplicação através do comando
 ## Acesso à documentação e detalhes técnicos
 
 Com o objetivo de melhorar visualização do funcionamento do projeto, criei uma massa de dados inicial a qual reinicia o banco de dados a cada execução da aplicação. É possivel
-verificar o comportamento do banco através do adminer, contido no docker-compose. Sua uri é dada por:
+verificar o comportamento do banco através do adminer, contido no docker-compose. Sua url é dada por:
 -   http://localhost:80/
 
 E os dados para acesso ao do banco são:
